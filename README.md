@@ -12,16 +12,13 @@ PERTANYAAN
 
 Jelaskan masing-masing dari code berikut sesuai nomor code.
 
-Kode 1 : myList, myschema
-
+Kode 1 : myList, myschema 
 Digunakan untuk membuat list dan schema pada awal untuk membuat Dataframe
 
 Kode 2 : spark.createDataFrame
-
 Digunakan untuk membuat Dataframe pada RDD dan list
 
 Kode 3 : parallelize, toDF
-
 Digunakan untuk membuat RDD dari kumpulan list
 
 Kode 4 : hadoop, fs, put
